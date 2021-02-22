@@ -7,4 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoregret)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
+## 📧 Contact :
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.egret.pro@gmail.com)
+
 ## 📦 Projects :
