@@ -10,5 +10,9 @@
 ## 📧 Contact :
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.egret.pro@gmail.com)
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=victoregret&hide=issues&show_icons=true)
+<br><br>
 
 ## 📦 Projects :
