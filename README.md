@@ -1,5 +1,3 @@
-![test](https://hackernoon.com/images/f2px36fy.gif)
-
 ## ⌨️ Mastered programming languages :
 
 ![Java](https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=Java&logoColor=white)
