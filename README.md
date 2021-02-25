@@ -1,4 +1,4 @@
-![test](https://pa1.narvii.com/7709/c90c0d7fd544985fcc86c2b1f1499eab7ed934efr1-700-292_hq.gif)
+![test](https://hackernoon.com/images/f2px36fy.gif)
 
 ## ⌨️ Mastered programming languages :
 
